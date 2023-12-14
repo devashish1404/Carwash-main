@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/static/js/main.b68f2674.js",
+    "static/media/car1guest.png": "/static/media/car1guest.f4c16bb98a399827fcbe.png",
+    "static/media/Vector.png": "/static/media/Vector.a9732fe572870eb9d358.png",
+    "static/media/wolks.png": "/static/media/wolks.a47c4f71abf197edd226.png",
+    "static/media/cardshome.png": "/static/media/cardshome.4fb0f790b48807eedf2d.png",
+    "static/media/sedan.png": "/static/media/sedan.d2895201192b29c9210c.png",
+    "static/media/AboutCar.png": "/static/media/AboutCar.dc62e0fdb6fdc1683c16.png",
+    "static/media/Vector2.png": "/static/media/Vector2.09421cc33ebce77e4ae7.png",
+    "static/media/red.png": "/static/media/red.338c6e01e1fbc9601228.png",
+    "static/media/yellow.png": "/static/media/yellow.ecb02b277bbabc7b65df.png",
+    "static/media/blue.png": "/static/media/blue.a6ebc7dbf12ad5b24558.png",
+    "index.html": "/index.html",
+    "main.b68f2674.js.map": "/static/js/main.b68f2674.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b68f2674.js"
+  ]
+}
